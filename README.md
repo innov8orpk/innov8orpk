@@ -1,16 +1,16 @@
-# 👋 *Hi, I'm Niladri*
+# 👋 *Hi, I'm Parveen*
 
 ![github](https://github.com/user-attachments/assets/49858a05-1219-4bee-b26b-6c7dbb055383)
 
                                                      Economics & Management student
-#### 💼 *Aspiring Research Analyst*  
+#### 💼 *Aspiring Marketing Analyst*  
 
 Welcome to my GitHub profile! Here, you’ll find projects and resources that showcase my skills in data analysis, visualization, and programming. My background combines a strong foundation in management and economics with hands on technical expertise.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📜 *Education*
-- *M.Sc. Economics & Management*  
+- *MBA (Digital Business)*  
   Indian Institute of Information Technology, Lucknow (2024 - 2026)    
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
